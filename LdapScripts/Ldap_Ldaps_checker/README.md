@@ -1,5 +1,5 @@
 ************************************************
------ LDAP_Ldaps_Checker powershell script -----
+  LDAP_Ldaps_Checker powershell script
 ************************************************
 
 This is a script for testing LDAP | LDAPS connections that will help us determine whether the issue is on the code side or related to the network, certificate,ciphers,Tls, ports, DNS, etc.
@@ -45,8 +45,11 @@ If the OS is modern, it provides the official Microsoft link where users can che
 
 
 This will  generate both a .etl trace and logfile 
+
 ![image](https://github.com/user-attachments/assets/2cd0d1a1-76d7-4256-8b9c-f862a9882c3f)
+
 ![image](https://github.com/user-attachments/assets/0743137e-b334-4160-952e-33cc8122a64b)
+
 We can use netmon UI to look into the trace.
 
 
