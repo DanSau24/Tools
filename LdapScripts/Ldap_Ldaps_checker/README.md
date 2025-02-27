@@ -26,6 +26,9 @@ You can run this from Client workstations part of the Domain. You can either Pow
 
 
 
+# **SAMPLE: [ldaps]**
+
+
 ![image](https://github.com/user-attachments/assets/8fffac6f-aab3-42ab-8a2c-331d5c64c0db)
 
 
