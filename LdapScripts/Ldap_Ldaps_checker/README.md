@@ -1,5 +1,5 @@
 ************************************************
-  LDAP_Ldaps_Checker powershell script
+# **LDAP_Ldaps_Checker PowerShell Script**
 ************************************************
 
 This is a script for testing LDAP | LDAPS connections that will help us determine whether the issue is on the code side or related to the network, certificate,ciphers,Tls, ports, DNS, etc.
