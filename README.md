@@ -1,2 +1,4 @@
 # LDAP
-Scripts and utilities for LDAP | LDAPS connection troubleshooting.
+Scripts and utilities about:
+- LDAP|LDAPS connection Traces.
+- DCOM|COM+ Traces.
